@@ -1,4 +1,4 @@
-module github.com/chunghha/docker-go-gin
+module github.com/abaron/kibitasa
 
 require (
 	github.com/gin-contrib/sse v0.0.0-20190125020943-a7658810eb74 // indirect
